@@ -1,10 +1,40 @@
 h1, h2 {
 
-    color: purple;
+    color: rgb(0, 64, 86);
 
 }
 p {
 
+    color: black;
+    margin-bottom: 50px;
+    background-color: antiquewhite;
+
+}
+ul {
+
+    border: 2px solid orange;
+
+}
+ol {
+
+    border: 2px solid purple;
+
+}
+ol, ul {
+
+    padding: 5px 20px;
+    border-radius: 4px;
+
+}
+h1, strong {
+
+    color: purple;
+
+}
+em {
+
     color: gray;
 
 }
+
+      
